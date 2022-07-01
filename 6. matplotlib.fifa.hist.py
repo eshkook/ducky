@@ -12,5 +12,5 @@ plt.xlabel('skill')
 plt.ylabel('num of players')
 
 plt.xticks(Bins)
-
+print(9)
 plt.show()
